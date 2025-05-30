@@ -2,7 +2,7 @@
 
 A seguir, apresentamos a proposta de aplicação de Ciência de Dados no contexto da concessionária, visando apoiar decisões estratégicas e operacionais. A implementação completa está prevista para o próximo semestre.
 
-###Levantamento e estruturação dos dados desde a aquisição do veículo na concessionária, incluindo dados cadastrais, previsão de produção e contratos.
+### Levantamento e estruturação dos dados desde a aquisição do veículo na concessionária, incluindo dados cadastrais, previsão de produção e contratos.
 
 Serão coletados dados desde a aquisição do veículo até a entrega final, incluindo:
 - Dados cadastrais do cliente e veículo
