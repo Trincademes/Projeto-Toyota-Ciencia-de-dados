@@ -1,6 +1,6 @@
-#  Ciência de Dados – Proposta de Indicadores 
+# Toyota Tech
 
-A seguir, apresentamos a proposta de aplicação de Ciência de Dados no contexto da concessionária, visando apoiar decisões estratégicas e operacionais. A implementação completa está prevista para o próximo semestre.
+##  Ciência de Dados 
 
 ### Levantamento e estruturação dos dados desde a aquisição do veículo na concessionária, incluindo dados cadastrais, previsão de produção e contratos.
 
